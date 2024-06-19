@@ -1,7 +1,9 @@
 {
-  "posts":{
-    "count": 169940,
-    "result": [
+  "rec":[
+    {
+      "id": 1,
+      "count": 169940,
+      "result": [
         {
             "maude_event_count": 0,
             "owner_operator_number": 10058555,
@@ -132,8 +134,9 @@
             "pk": "6396355e-ac6d-4c88-befb-07346a275edc",
             "orp_score_1": 0
         }
-    ]
-  }
+      ]
+    }
+  ]
   ,
   "profile": {
     "name": "typicode"
